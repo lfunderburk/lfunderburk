@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Laura
+- 👀 I work as a data scientist.
+- 🌱 At this time I am enrolled in University of California Machine Learning Engineering Bootcamp -> I want to learn how to set up machine learning as part of the data pipelines I develop, test the model, iterate and deploy in cloud-based services.
+- 📫 You can find me on Twitter (@lgfunderburk)[https://twitter.com/LGFunderburk]
