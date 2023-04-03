@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Laura
 - 👀 I work as a data scientist.
-- 🌱 In the next month I will complete my UC San Diego [Machine Learning Engineering Bootcamp](https://career-bootcamp.extension.ucsd.edu/programs/machine-learning-engineering/) -> I learned how to use machine learning as part of the data pipelines I develop, test the model, iterate and deploy in cloud-based services. Check out [my blog](https://lfunderburk.github.io/)! My capstone is a project that studies consumer trends for three kinds of vehicles: electric, fuel-only and hybrid. I will publish this by end of May. 
+- 🌱 In the next month I will complete my UC San Diego [Machine Learning Engineering Bootcamp](https://career-bootcamp.extension.ucsd.edu/programs/machine-learning-engineering/)
+ - I learned how to use machine learning as part of the data pipelines I develop, test the model, iterate and deploy in cloud-based services. Check    out [my blog](https://lfunderburk.github.io/)! My capstone is a project that studies consumer trends for three kinds of vehicles: electric, fuel-only and hybrid. I will publish this by end of May. 
 - 📫 You can find me on Twitter [@lgfunderburk](https://twitter.com/LGFunderburk)
