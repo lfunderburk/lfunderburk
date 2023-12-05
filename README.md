@@ -4,4 +4,4 @@
  - You can follow my ML adventures on [my blog](https://lfunderburk.github.io/)!
 - 📫 You can find me on Twitter [@lgfunderburk](https://twitter.com/LGFunderburk) and Fosstodon [@lfunderburk](https://fosstodon.org/@lfunderburk)
 - I am open to speaking engagements. You can find a list of the talks and workshops I have given [here](https://lfunderburk.github.io/#speaking)
-- 🥋 Fun fact about me: I have a blue belt in Brazilian Jiu-Jitsu. Currently I work towards a purple belt, and enjoy competing at Gi and No Gi tournaments. In 2023 I competed as a white belt and brought home: 🥇 2 gold medals, 3 silver medals, 1 No Gi pro challenge belt  
+- 🥋 Fun fact about me: I have a blue belt in Brazilian Jiu-Jitsu. Currently I work towards a purple belt, and enjoy competing at Gi and No Gi tournaments. In 2023 I competed as a white belt and brought home: 🥇 2 gold medals, 3 silver medals, 1 No Gi pro challenge belt. I competed as a blue belt shortly after and brought home two more Gold medals,and three silvers. Working on offense and guard retention games. 
