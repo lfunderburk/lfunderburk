@@ -11,5 +11,5 @@
 |-|-|-|-|-|
 | 2023| White | Gi | 2 gold medals, 2 silver medals| Local| 
 | 2023 | White | No gi | 1 No Gi Pro Challenge belt, 1 silver| Local|
-| 2023 | Blue | Gi | 2 gold medals | Local |
+| 2023 | Blue | Gi | 2 gold medals, 1 silver | Local |
 | 2023 | Blue | No gi | 2 silver medals|  Local |
