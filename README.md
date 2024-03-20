@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Laura
 - 👀 Data scientist/DevRel with a passion towards ML engineering/MLOps, education and outreach. 
-- 🤗 Developer Advocate for [Ploomber](https://ploomber.io/) 
+- 🤗 Developer Advocate for [Bytewax]([https://ploomber.io/](https://bytewax.io/) - if you love data ops with Python and setting up stream analytics please talk to me!
  - You can follow my ML adventures on [my blog](https://lfunderburk.github.io/)!
-- 📫 You can find me on Twitter [@lgfunderburk](https://twitter.com/LGFunderburk) and Fosstodon [@lfunderburk](https://fosstodon.org/@lfunderburk)
 - I am open to speaking engagements. You can find a list of the talks and workshops I have given [here](https://lfunderburk.github.io/#speaking)
 - 🥋 Fun fact about me: I have a blue belt in Brazilian Jiu-Jitsu. Currently I work towards a purple belt, and enjoy competing at Gi and No Gi tournaments. Working on my offense, stand up and guard retention games. 
 
