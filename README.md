@@ -6,11 +6,9 @@
 - 🥋 Fun fact about me: I have a blue belt in Brazilian Jiu-Jitsu. Currently I work towards a purple belt, and enjoy competing at Gi and No Gi tournaments. Working on my offense, stand up and guard retention games. 
 
 
-| Year | Belt | BJJ type| Result | Tournament scope| 
-|-|-|-|-|-|
-| 2023| White | Gi | 2 gold medals, 2 silver medals| Local| 
-| 2023 | White | No gi | 1 No Gi Pro Challenge belt, 1 silver| Local|
-| 2023 | Blue | Gi | 2 gold medals, 1 silver | Local |
-| 2023 | Blue | No gi | 2 silver medals|  Local |
-| 2024 | Blue | Gi | 3 gold | Local |
-| 2024 | Blue | No Gi| 1 gold, 1 silver | Local
+| Year | Belt | Gi | No Gi| Result | Tournament scope| 
+|-|-|-|-|-|-|
+| 2023| White | 2 gold, 2 silver| Pro challenge belt, 1 silver| Local|
+| 2023| Blue | 2 gold, 1 silver | 2 silver | Local |
+| 2024| Blue | 3 gold | 1 gold, 1 silver | Local
+
