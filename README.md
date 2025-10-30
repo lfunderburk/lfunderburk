@@ -11,5 +11,6 @@
 | 2023| White | 2 gold, 2 silver| Pro challenge belt, 1 silver| Local|
 | 2023| Blue | 2 gold, 1 silver | 2 silver | Local |
 | 2024| Blue | 3 gold | 1 gold, 1 silver | Local |
-| 2025 | Blue | 1 gold | IBJJF World Master | 
+| 2025 | Blue | 4 gold, 1 silver | 3 gold, 1 silver | Local | 
+| 2025 | Blue | 1 gold | NA| IBJJF World Master |
 
